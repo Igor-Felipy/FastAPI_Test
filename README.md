@@ -9,6 +9,8 @@
 - Ruff
 - Pytest
 - Taskpy
+- Uvicorn
+- Pydantic
 
 ## Como rodar:
 
